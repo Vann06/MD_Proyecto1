@@ -4,3 +4,4 @@ matplotlib
 pyreadstat
 ipykernel
 scipy
+scikit-learn
